@@ -7,7 +7,7 @@ subtitle: Postdoctoral researcher in Computational Quantum Physics at <a href="h
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
     <p>TU Wien</p>
     <p>Vienna, Austria</p>
