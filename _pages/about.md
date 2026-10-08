@@ -32,6 +32,8 @@ I received my PhD in Theoretical Physics from **CEA Grenoble**, where I worked w
 
 My broader interests include **tensor networks**, **quantum many-body physics**, **computational physics**, **circuit QED**, **numerical methods**, and **quantum-device readout**.
 
+<div style="clear: both;"></div>
+
 ## [publications](/publications/)
 
 {% include selected_papers.liquid %}
