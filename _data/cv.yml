@@ -1,0 +1,168 @@
+cv:
+  name: Alessandro Chessari
+  label: Postdoctoral Researcher in Computational Quantum Physics
+  email: alessandro.chessari@tuwien.ac.at
+  location: Vienna, Austria
+  image: ""
+  summary: Computational quantum physicist working on tensor networks, quantum many-body systems, and circuit quantum electrodynamics.
+
+  social_networks:
+    - network: GitHub
+      username: aleeschessari
+
+  sections:
+    Experience:
+      - company: TU Wien
+        position: Postdoctoral Researcher
+        location: Vienna, Austria
+        start_date: 2025-12
+        end_date: present
+        summary: Research on quantum-inspired tensor-network algorithms with Dr. Anna Kauch and Dr. Markus Wallerberger.
+
+      - company: TU Wien
+        position: Visiting PhD Student
+        location: Vienna, Austria
+        start_date: 2024-12
+        end_date: 2025-06
+        summary: Investigated applications of Quantics Tensor Trains to one-dimensional spin chains with Dr. Anna Kauch and Dr. Markus Wallerberger.
+
+      - company: CEA Grenoble
+        position: PhD Researcher in Theoretical Physics
+        location: Grenoble, France
+        start_date: 2022-10
+        end_date: 2025-10
+        summary: Studied readout in circuit quantum electrodynamics, from single qubits to quantum many-body systems, under the supervision of Dr. Michele Filippone and Dr. Yann-Michel Niquet.
+
+      - company: CEA Grenoble
+        position: Master's Research Student
+        location: Grenoble, France
+        start_date: 2022-03
+        end_date: 2022-07
+        summary: Calculated the admittance of dissipative quantum many-body systems under the supervision of Dr. Michele Filippone.
+
+      - company: CRMN Lab, ENS de Lyon
+        position: Master's Research Student
+        location: Lyon, France
+        start_date: 2021-05
+        end_date: 2021-07
+        summary: Studied spin diffusion and polarization transfer between nuclear spins in paramagnetic solids under the supervision of Dr. Quentin Stern.
+
+      - company: Semi-Spin Lab, Politecnico di Milano
+        position: Bachelor's Research Student
+        location: Milan, Italy
+        start_date: 2019-06
+        end_date: 2019-07
+        summary: Investigated inverse spin-Hall detection of optically generated spin currents in semiconductor/metal samples.
+
+    Education:
+      - institution: CEA Grenoble
+        location: Grenoble, France
+        area: Theoretical Physics (Quantum Physics)
+        studyType: PhD
+        start_date: 2022
+        end_date: 2025
+
+      - institution: École Normale Supérieure de Lyon
+        location: Lyon, France
+        area: Theoretical Physics
+        studyType: M2
+        start_date: 2021
+        end_date: 2022
+
+      - institution: École Normale Supérieure de Lyon
+        location: Lyon, France
+        area: Physics
+        studyType: M1
+        start_date: 2020
+        end_date: 2021
+        score: High Honors
+
+      - institution: Politecnico di Milano
+        location: Milan, Italy
+        area: Physics Engineering
+        studyType: MSc
+        start_date: 2019
+        end_date: 2022
+        score: 110/110
+
+      - institution: Politecnico di Milano
+        location: Milan, Italy
+        area: Physics Engineering
+        studyType: BSc
+        start_date: 2016
+        end_date: 2019
+
+    Fellowships:
+      - title: IDEX Formation Scholarship and CEA PACE Award
+        date: 2024–2025
+        awarder: Université Grenoble Alpes and CEA Grenoble
+        summary: Funding for a visiting research period abroad.
+
+      - title: IdexLyon Excellence Scholarship
+        date: 2020–2021
+        awarder: École Normale Supérieure de Lyon and Université Claude Bernard Lyon 1
+        summary: Excellence scholarship supporting studies in Lyon.
+
+      - title: Double Degree Program
+        date: 2020–2022
+        awarder: Erasmus
+        summary: Selected for the double degree program between Politecnico di Milano and École Normale Supérieure de Lyon.
+
+    Teaching:
+      - company: Université Grenoble Alpes
+        position: Exercise Instructor — Electrical Phenomena and Transport
+        location: Grenoble, France
+        start_date: 2024-09
+        end_date: 2024-12
+
+      - company: Université Grenoble Alpes
+        position: Exercise Instructor — Electrical Phenomena and Transport
+        location: Grenoble, France
+        start_date: 2023-09
+        end_date: 2023-12
+
+      - company: Université Grenoble Alpes
+        position: Exercise Instructor — Introduction to Linear Algebra
+        location: Grenoble, France
+        start_date: 2023-02
+        end_date: 2023-06
+
+    Selected conferences and schools:
+      - name: International Workshop on Tensor Cross Interpolation and Other Algorithms for Learning Tensor Networks
+        date: 2025-10
+        location: Grenoble, France
+
+      - name: Silicon Quantum Electronics Workshop (SiQEW 2024)
+        date: 2024-08
+        location: Davos, Switzerland
+
+      - name: Quantum Many-Body Systems Out of Equilibrium
+        date: 2024-01 – 2024-03
+        location: Institut Henri Poincaré, Paris, France
+
+      - name: Frontiers of Condensed Matter
+        date: 2022-10
+        location: Les Houches, France
+
+      - name: Winter School on Ultracold Quantum Gases
+        date: 2022-02
+        location: Innsbruck, Austria
+
+    Technical Skills:
+      - name: Programming
+        level: Advanced
+        keywords: "C, C++, Julia, Python, MATLAB"
+      - name: Scientific tools
+        keywords: "LaTeX, tensor-network methods, numerical many-body physics"
+
+    Languages:
+      - name: Italian
+        summary: Native
+      - name: Romanian
+        summary: Second language
+      - name: English
+        summary: Fluent
+      - name: French
+        summary: Fluent
+      - name: German
+        summary: B2
